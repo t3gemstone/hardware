@@ -64,6 +64,12 @@ With a 64-bit ARM architecture and TI system-on-chip foundation, it offers rich 
 
 ---
 
+## T3 Gemstone O1 Protective Case
+
+![Case](images/t3-gem-o1-3d.jpeg)
+
+You can access a box design that can be printed with a 3D printer from the file [3d-printer/t3-gem-o1-protective-case.zip](3d-printer/t3-gem-o1-protective-case.zip)
+
 ## Community and Support
 
 We welcome contributions, community projects, and feedback!  
