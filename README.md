@@ -25,8 +25,8 @@ With a 64-bit ARM architecture and TI system-on-chip foundation, it offers rich 
 |----------|--------------|
 | **Processor** | Quad-core ARM Cortex-A53 @1.4 GHz with integrated GPU DSP and AI accelerators |
 | **Memory** | 4 GB LPDDR4 RAM |
-| **Wi-Fi** | Wi-Fi 802.11n (WL1835MOD) |
-| **Bluetooth** | Bluetooth 5.1 (BLE) |
+| **Wi-Fi** | Wi-Fi 5 — 802.11a/b/g/n/ac dual-band 2.4/5 GHz, 2x2 MIMO up to 867 Mbps (Fn-Link 6222B-SRC, Realtek RTL8822CS) |
+| **Bluetooth** | Bluetooth 5.0 (BLE) |
 | **Onboard Storage** | 32 GB onboard eMMC (High-speed onboard flash storage) , 512Kbit EEPROM (I2C-compatible serial EEPROM for configuration storage) |
 | **Storage** | microSD slot (Supports high-speed SDR104 mode), M.2 2280 SSD Port (Supports high-capacity NVMe SSD) |
 | **USB Ports** | 2 × USB 3.0 Type-A (5 Gbps), 1 × USB 2.0 Type-A, 1 × USB 2.0 Type-C (Device + PD support) |
@@ -40,7 +40,6 @@ With a 64-bit ARM architecture and TI system-on-chip foundation, it offers rich 
 | **Debug UART** | 3-pin 2.54mm connector provides access to serial console for debugging and system management |
 | **Power** | USB Type-C Power (5-9V / 3A), DC Power Connector (5-12V / 5A) |
 | **Power button** | On/Off included |
-| **Programmable Button** | User-configurable button |
 | **Fan connector** | 4-pin JST SH connector for active cooling solutions with PWM fan control |
 | **Boot Mode Switch** | Hardware switch for selecting different boot modes and configurations |
 | **Motion Sensing Sensor** | InvenSense ICM-20948 (9-Axis MEMS MotionTracking sensor with accelerometer, gyroscope, and magnetometer) |
